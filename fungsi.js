@@ -6,3 +6,6 @@ console.log(kurang(10, 5));
 
 const kali = (a, b) => a * b;
 console.log(kali(10, 5));
+
+const bagi = (a, b) => a / b;
+console.log(bagi(10, 5));
